@@ -2,7 +2,7 @@
 
 My personal portfolio: who I am, the projects I am proud of, my skills, and how to contact me.
 
-**Live site:** _add your Vercel link here after the first deploy_
+**Live site:** https://bafana-portfolio.vercel.app
 
 ![Portfolio home page](public/projects/portfolio-preview.png)
 
