@@ -17,7 +17,7 @@ export const profile = {
   email: 'bafanandlovu1984@gmail.com',
   linkedin: 'https://www.linkedin.com/in/david-bafana-5a765b187',
   github: 'https://github.com/Bafana-Ndlovu',
-  cv: 'https://docs.google.com/document/d/1rFLOBN_cOut24DzdIKpmVwm7hBkZj5tT6Us4vVLZHUc/export?format=pdf', // downloads the Google Doc as a PDF
+  cv: '/Bafana-Ndlovu-CV.pdf',
 }
 
 export const problems = [
