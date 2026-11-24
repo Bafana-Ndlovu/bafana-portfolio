@@ -10,7 +10,7 @@ My personal portfolio: who I am, the projects I am proud of, my skills, and how 
 
 - **Hero:** what I build, plus the real community problems I have built apps for
 - **Projects:** FixLink (capstone), FixMyKasi (team project) and Pulse, each with a screenshot, the problem, my role, the tech stack, and live and GitHub links
-- **More builds:** Sisonke, SoleCare and TaskForge API
+- **More builds:** SoleCare and TaskForge API
 - **About and skills**
 - **Contact:** email, LinkedIn, GitHub and CV download
 

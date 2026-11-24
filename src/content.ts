@@ -12,7 +12,7 @@ export const profile = {
     'I am looking for a junior full-stack or AI software developer role where I can ship real features for real users.',
   about: [
     'I am training as an Artificial Intelligence Software Developer (NQF 5) at Melsoft Academy. Before that I built a long run of JavaScript, TypeScript and React projects, several of them in teams.',
-    'I like problems I can see from my own street: finding a plumber you can trust, getting a pothole fixed, helping families cover funeral costs. I start with the people who have the problem, design the screens, then build it properly: planned in Issues, built on branches, reviewed in pull requests and tested in CI.',
+    'I like problems I can see from my own street: finding a plumber you can trust, getting a pothole fixed, getting sneakers cleaned without a trip to town. I start with the people who have the problem, design the screens, then build it properly: planned in Issues, built on branches, reviewed in pull requests and tested in CI.',
   ],
   email: 'bafanandlovu1984@gmail.com',
   linkedin: 'https://www.linkedin.com/in/david-bafana-5a765b187',
@@ -23,7 +23,6 @@ export const profile = {
 export const problems = [
   { problem: 'No easy way to find a plumber you can trust', app: 'FixLink', href: '#fixlink' },
   { problem: 'Potholes and burst pipes reported, then forgotten', app: 'FixMyKasi', href: '#fixmykasi' },
-  { problem: 'Families struggling to cover funeral costs', app: 'Sisonke', href: '#more' },
   { problem: 'Sneaker cleaning that means a trip to town', app: 'SoleCare', href: '#more' },
 ]
 
@@ -87,12 +86,6 @@ export const featured: Project[] = [
 ]
 
 export const moreProjects = [
-  {
-    name: 'Sisonke',
-    text: 'A community funeral benefit scheme where each member chips in R5 to R20 when a family loses someone.',
-    stack: 'React, TypeScript, Supabase',
-    github: 'https://github.com/Bafana-Ndlovu/sisonke',
-  },
   {
     name: 'SoleCare',
     text: 'An Android app for doorstep sneaker cleaning, with photo checks at pickup so every pair comes back to its owner.',
